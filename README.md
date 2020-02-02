@@ -45,11 +45,6 @@ litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 
 2. 管理员用户名`admin123`，管理员密码`admin123`
 > 注意：此实例只是测试管理后台，不是前两个小商城的管理后台。
 
-## 项目代码
-
-* [码云](https://gitee.com/linlinjava/litemall)
-* [GitHub](https://github.com/linlinjava/litemall)
-
 ## 项目架构
 ![](./doc/pic/1.png)    
 
@@ -220,12 +215,6 @@ V 3.0.0 完成以下目标：
 
    项目参考：litemall项目的litemall-vue模块基于vant--mobile-mall项目开发。
 
-## 推荐
-
-1. [Flutter_Mall](https://github.com/youxinLu/mall)
-   
-   项目介绍：Flutter_Mall是一款Flutter开源在线商城应用程序。
-
 ## 问题
 
 ![](doc/pic/qq2.png)
@@ -238,8 +227,3 @@ V 3.0.0 完成以下目标：
     * 请百度或谷歌相关技术；
     * 请查看相关技术的官方文档，例如微信小程序的官方文档；
     * 请提问前尽可能做一些DEBUG或者思考分析，然后提问时给出详细的错误相关信息以及个人对问题的理解。
-
-## License
-
-[MIT](https://github.com/linlinjava/litemall/blob/master/LICENSE)
-Copyright (c) 2018-present linlinjava
